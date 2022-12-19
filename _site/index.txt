@@ -1,0 +1,67 @@
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+---
+<h1>Sylvester 2022</h1>
+
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 80%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+
+#<a><img src=""Bild1.jpg" ></a>
+
+<h1> Diese Seite wird über die kommenden 2 Wochen up-to-date gehalten, damit ihr nicht im Chat suchen müsst.  </h1> 
+<h1> Gäste: Zur Zeit ca. 20 </h1> 
+<h1> Menu </h1> 
+
+<h2> Vorspeisen </h2> 
+<h3> Exquisites auf dem Niveau von 'The Taste', kohlehydratarm, damit noch Platz für die Hauptspeise ist</h3> 
+<ul> 
+<li>Vorspeise 1: Wer? </li>
+<li>Vorspeise 2: Wer? </li>
+<li>Vorspeise 3: Wer? </li>
+<li>... </li>
+</ul>
+
+<h2> Hauptspeise </h2> 
+<h3> Grüner Salat: Familie Frank? </h3> 
+<h3> Raclette: </h3> 
+
+<h4> Alle vegetarischen Grundzutaten von Familie Frank. Wir kalkulieren ca. 7 Pfännchen für Herren und 5 Pfännchen für Damen (passt das?). Kartoffeln und Brot werdenw wir ausreichend haben</h4> 
+<h4> Fleisch/Fisch/Seafood von den Gästen. Unsere Bitte: Achtet auf das Tierwohl durch entsprechende Stallhaltung, Metzger Eures Vertrauens und Zertifizierung beim Fisch (soviel das auch wert sein mag), dann esse ich (Elof) zumindest auch etwas mit </h4> 
+<h4> Alternativ: Wir zaubern uns durch die wundersame Welt des Raclette's. In Gruppen bringt ihr Eure Ideen und die Zutaten mit. <a href="https://heissehimbeeren.com/die-9-leckersten-raclette-rezepte/">Idden hier, wer sucht findet noch viel mehr</a>
+</h4> 
+
+
+<h2> Nachspeisen </h2> 
+<ul> 
+<li>Nachspeise 1: Wer? </li>
+<li>Nachspeise 2: Wer? </li>
+<li>Nachspeise 3: Wer? </li>
+<li>... </li>
+</ul>
+
+<h2> Musik und Tanzen </h2> 
+<h3> Auf Anregung von Sophie tanzen wir in Etappen, mit ausreichend Tanzpausen. Bitte Eure Playlisten und Musikwünsche an Sophie schicken oder stellt Euch direkt  und live an die Dukebox </h3> 
+<ul> 
+<li>Playlist 1: Sophie? </li>
+<li>Playlist 2: Astrid? </li>
+<li>Playlist 3: Wer? </li>
+<li>... </li>
+</ul>

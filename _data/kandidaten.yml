@@ -1,0 +1,79 @@
+- name: "Holger G."
+  brevet: "Gold" 
+  ttg: false
+  TG:  NN
+  TGTief: NN
+  AKNTG: false
+  AKTSR: false
+
+- name: "Michael S."
+  brevet: "Gold" 
+  ttg: true
+  gueltig: 20/04/2023
+  TG:  106
+  TGTief: 10
+  AKNTG: NTG
+  AKTSR: false
+
+- name: "Manfred K."
+  brevet: "Gold" 
+  ttg: false
+  TG:  NN
+  TGTief: NN
+  AKNTG: false
+  AKTSR: false
+
+- name: "Otto F."
+  brevet: "Gold" 
+  ttg: false
+  TG:  NN
+  TGTief: NN
+  AKNTG: false
+  AKTSR: false
+
+- name: "Fabi S."
+  brevet: "Gold" 
+  ttg: false
+  TG:  NN
+  TGTief: NN
+  AKNTG: false
+  AKTSR: false
+
+- name: "Marcus S."
+  brevet: "Silber" 
+  ttg: false
+  TG:  NN
+  TGTief: NN
+  gueltig: "01/04/2023"
+  AKOT: false
+  AKGF: false
+  AKMB: false
+  AKHLW: false
+
+- name: "Maria H."
+  brevet: "Bronze" 
+  ttg: false
+  TG:  NN
+  TGTief: NN
+  gueltig: "01/04/2023"
+  AKHLW: false
+
+- name: "Julian"
+  brevet: "Bronze" 
+  ttg: true
+  TG:  NN
+  TGTief: NN
+  gueltig: "25/07/2024"
+  AKHLW: false
+
+- name: "Leonie S."
+  brevet: "KTA Gold" 
+  ttg: false
+  gueltig: "01/04/2023"
+  AKGF: false
+
+- name: "Isabel S."
+  brevet: "Otter" 
+  ttg: false
+  gueltig: "01/04/2023"
+
