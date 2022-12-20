@@ -27,7 +27,9 @@ tr:nth-child(even) {
 </head>
 
 
-(Diese Seite wird über die kommenden 2 Wochen up-to-date gehalten, damit ihr nicht im Chat nach allen Informationen mühsamnach allen Informationen mühsam suchen müsst.)
+(Diese Seite wird über die kommenden 2 Wochen up-to-date gehalten, damit ihr nicht nach allen Informationen mühsamn im WA-Chat suchen müsst.)
+
+<h1> Start um 20:20? Nein, um 19:19 </h1> 
 <h1> Gäste: Zur Zeit ca. 20 </h1> 
 
 <a><img src="bilder/bild1.jpg" height = "200"></a>
@@ -36,7 +38,7 @@ tr:nth-child(even) {
 <a><img src="bilder/bild21.jpg" height = "200"></a>
 <a><img src="bilder/bild22.jpg" height = "200"></a>
 <a><img src="bilder/bild12.jpg" height = "200"></a>
-<a><img src="bilder/bild23.jpg" height = "200"></a>
+<a><img src="bilder/bild24.jpg" height = "200"></a>
 <a><img src="bilder/bild16.jpg" height = "200"></a>
 <h1> Menu </h1> 
 <h2> Vorspeisen </h2> 
@@ -55,8 +57,8 @@ tr:nth-child(even) {
 <a><img src="bilder/bild20.jpg" height = "200"></a>
 <h3> Raclette: </h3> 
 
-<h4> Alle vegetarischen Grundzutaten für das Raclette von Familie Frank. Kartoffeln und Brot werden wir ausreichend haben</h4> 
-<h4> Fleisch/Fisch/Seafood von den Gästen. Unsere Bitte: Achtet auf das Tierwohl durch entsprechende Stallhaltung, kauft vom Metzger Eures Vertrauens und achtet beim Seafood auf die Zertifizierung (<a href="https://de.wikipedia.org/wiki/Whataboutism#:~:text=Whataboutism%20oder%20Whataboutismus%20(von%20englisch,einer%20kritischen%20Gegenfrage%20erwidert%20wird."> soviel das auch wert sein mag)</a>, dann esse ich (Elof) zumindest auch etwas mit </h4> 
+<h4> Alle vegetarischen Grundzutaten, Käse Kartoffeln, Brot für das Raclette von Familie Frank.</h4> 
+<h4> Fleisch/Fisch/Seafood von den Gästen. Unsere Bitte: Achtet auf das Tierwohl.</h4> 
 <h4> Alternativ: Wir zaubern uns durch die wundersame Welt des Raclette's. In Gruppen bringt ihr Eure Ideen und die Zutaten mit. <a href="https://heissehimbeeren.com/die-9-leckersten-raclette-rezepte/">Ideen hier, wer sucht findet noch viel mehr</a>
 </h4> 
 
@@ -70,7 +72,7 @@ tr:nth-child(even) {
 </ul>
 
 <h2> Musik und Tanzen </h2> 
-<h3> Auf Anregung von Sophie tanzen wir in Etappen, mit ausreichend Tanzpausen. Bitte Eure Playlisten und Musikwünsche an Sophie schicken oder stellt Euch direkt  und live an die Dukebox </h3> 
+<h3> Auf Anregung von Sophie und Elof tanzen wir in Etappen, mit ausreichend Tanzpausen. Bitte Eure Playlisten und Musikwünsche an Sophie schicken oder stellt Euch direkt  und live an die Dukebox </h3> 
 <ul> 
 <li>Playlist 1: Sophie? </li>
 <li>Playlist 2: Astrid? </li>
