@@ -40,7 +40,7 @@ tr:nth-child(even) {
 <a><img src="bilder/bild16.jpg" height = "200"></a>
 <h1> Menu </h1> 
 <h2> Vorspeisen </h2> 
-<h3> Exquisites auf dem Niveau von 'The Taste', kohlehydratarm, damit noch Platz für die Hauptspeise ist. Vegetarisch bevorzugt, ihr kennt ja meine Frau!</h3> 
+<h3> Exquisites auf dem Niveau von 'The Taste', kohlehydratarm, damit noch Platz für die Hauptspeise ist.</h3> 
 <ul> 
 <li>Vorspeise 1: Wer? </li>
 <li>Vorspeise 2: Wer? </li>
@@ -51,11 +51,11 @@ tr:nth-child(even) {
 </ul>
 
 <h2> Hauptspeise </h2> 
-<h3> Grüner Salat: Kölner Fraktion? </h3> 
+<h3> Grüner Salat: Wer? </h3> 
 <a><img src="bilder/bild20.jpg" height = "200"></a>
 <h3> Raclette: </h3> 
 
-<h4> Alle vegetarischen Grundzutaten von Familie Frank. Wir kalkulieren ca. 7 Pfännchen für Herren und 5 Pfännchen für Damen (passt das? Zumindest wollen wir nicht für ein Jahr Käse im Eisfach haben). Kartoffeln und Brot werden wir ausreichend haben</h4> 
+<h4> Alle vegetarischen Grundzutaten für das Raclette von Familie Frank. Kartoffeln und Brot werden wir ausreichend haben</h4> 
 <h4> Fleisch/Fisch/Seafood von den Gästen. Unsere Bitte: Achtet auf das Tierwohl durch entsprechende Stallhaltung, kauft vom Metzger Eures Vertrauens und achtet beim Seafood auf die Zertifizierung (<a href="https://de.wikipedia.org/wiki/Whataboutism#:~:text=Whataboutism%20oder%20Whataboutismus%20(von%20englisch,einer%20kritischen%20Gegenfrage%20erwidert%20wird."> soviel das auch wert sein mag)</a>, dann esse ich (Elof) zumindest auch etwas mit </h4> 
 <h4> Alternativ: Wir zaubern uns durch die wundersame Welt des Raclette's. In Gruppen bringt ihr Eure Ideen und die Zutaten mit. <a href="https://heissehimbeeren.com/die-9-leckersten-raclette-rezepte/">Ideen hier, wer sucht findet noch viel mehr</a>
 </h4> 
