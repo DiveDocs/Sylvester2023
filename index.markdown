@@ -56,10 +56,17 @@ tr:nth-child(even) {
 <h3> Grüner Salat: Wer? </h3> 
 <a><img src="./Bild20.jpg" height = "200"></a>
 <h3> Raclette: </h3> 
+<a><img src="./Bild4.jpg" height = "200"></a>
+<a><img src="./Bild5.jpg" height = "200"></a>
+<a><img src="./Bild6.jpg" height = "200"></a>
+<a><img src="./Bild7.jpg" height = "200"></a>
+<a><img src="./Bild8.jpg" height = "200"></a>
+<a><img src="./Bild9.jpg" height = "200"></a>
+<a><img src="./bild10.jpg" height = "200"></a>
 
-<h4> Alle vegetarischen Grundzutaten, Käse Kartoffeln, Brot für das Raclette von Familie Frank.</h4> 
-<h4> Fleisch/Fisch/Seafood von den Gästen. Unsere Bitte: Achtet auf das Tierwohl.</h4> 
-<h4> Alternativ: Wir zaubern uns durch die wundersame Welt des Raclette's. In Gruppen bringt ihr Eure Ideen und die Zutaten mit. <a href="https://heissehimbeeren.com/die-9-leckersten-raclette-rezepte/">Ideen hier, wer sucht findet noch viel mehr</a>
+<h4> Alle vegetarischen Grundzutaten, Käse (Raclette, Butterkäse), Kartoffeln, Brot für das Raclette von Familie Frank.</h4> 
+<h4> Fleisch/Fisch/Seafood von den Gästen. </h4> 
+<h4> Alternativ: Wir zaubern uns durch die wundersame Welt des Raclette's. In Gruppen bringt ihr Eure Ideen und die Zutaten mit. <a href="https://heissehimbeeren.com/die-9-leckersten-raclette-rezepte/">Ideen hier, wer sucht findet noch viel mehr</a>. Wer isst dabei? Feedback in den Gruppenchat!?
 </h4> 
 
 
