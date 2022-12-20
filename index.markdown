@@ -4,7 +4,7 @@
 
 layout: home
 ---
-<h1>Sylvester 2022</h1>
+
 
 <head>
 <style>
@@ -27,7 +27,7 @@ tr:nth-child(even) {
 </head>
 
 
-<h1> Diese Seite wird über die kommenden 2 Wochen up-to-date gehalten, damit ihr nicht im Chat suchen müsst.  </h1> 
+(Diese Seite wird über die kommenden 2 Wochen up-to-date gehalten, damit ihr nicht im Chat nach allen Informationen mühsamnach allen Informationen mühsam suchen müsst.)
 <h1> Gäste: Zur Zeit ca. 20 </h1> 
 
 <a><img src="bilder/bild1.jpg" height = "200"></a>
@@ -55,7 +55,7 @@ tr:nth-child(even) {
 <a><img src="bilder/bild20.jpg" height = "200"></a>
 <h3> Raclette: </h3> 
 
-<h4> Alle vegetarischen Grundzutaten von Familie Frank. Wir kalkulieren ca. 7 Pfännchen für Herren und 5 Pfännchen für Damen (passt das?). Kartoffeln und Brot werden wir ausreichend haben</h4> 
+<h4> Alle vegetarischen Grundzutaten von Familie Frank. Wir kalkulieren ca. 7 Pfännchen für Herren und 5 Pfännchen für Damen (passt das? Zumindest wollen wir nicht für ein Jahr Käse im Eisfach haben). Kartoffeln und Brot werden wir ausreichend haben</h4> 
 <h4> Fleisch/Fisch/Seafood von den Gästen. Unsere Bitte: Achtet auf das Tierwohl durch entsprechende Stallhaltung, kauft vom Metzger Eures Vertrauens und achtet beim Seafood auf die Zertifizierung (<a href="https://de.wikipedia.org/wiki/Whataboutism#:~:text=Whataboutism%20oder%20Whataboutismus%20(von%20englisch,einer%20kritischen%20Gegenfrage%20erwidert%20wird."> soviel das auch wert sein mag)</a>, dann esse ich (Elof) zumindest auch etwas mit </h4> 
 <h4> Alternativ: Wir zaubern uns durch die wundersame Welt des Raclette's. In Gruppen bringt ihr Eure Ideen und die Zutaten mit. <a href="https://heissehimbeeren.com/die-9-leckersten-raclette-rezepte/">Ideen hier, wer sucht findet noch viel mehr</a>
 </h4> 
