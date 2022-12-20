@@ -38,7 +38,7 @@ tr:nth-child(even) {
 <a><img src="bilder/bild21.jpg" height = "200"></a>
 <a><img src="bilder/bild22.jpg" height = "200"></a>
 <a><img src="bilder/bild12.jpg" height = "200"></a>
-<a><img src="bilder/bild24.jpg" height = "200"></a>
+<a><img src="bild24.jpg" height = "200"></a>
 <a><img src="bilder/bild16.jpg" height = "200"></a>
 <h1> Menu </h1> 
 <h2> Vorspeisen </h2> 
