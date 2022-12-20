@@ -32,14 +32,14 @@ tr:nth-child(even) {
 <h1> Start um 20:20? Nein, um 19:19 </h1> 
 <h1> Gäste: Zur Zeit ca. 20 </h1> 
 
-<a><img src="bilder/bild1.jpg" height = "200"></a>
-<a><img src="bilder/bild3.jpg" height = "200"></a>
-<a><img src="bilder/bild19.jpg" height = "200"></a>
-<a><img src="bilder/bild21.jpg" height = "200"></a>
-<a><img src="bilder/bild22.jpg" height = "200"></a>
-<a><img src="bilder/bild12.jpg" height = "200"></a>
+<a><img src="bild1.jpg" height = "200"></a>
+<a><img src="bild3.jpg" height = "200"></a>
+<a><img src="bild19.jpg" height = "200"></a>
+<a><img src="bild21.jpg" height = "200"></a>
+<a><img src="bild22.jpg" height = "200"></a>
+<a><img src="bild12.jpg" height = "200"></a>
 <a><img src="bild24.jpg" height = "200"></a>
-<a><img src="bilder/bild16.jpg" height = "200"></a>
+<a><img src="bild16.jpg" height = "200"></a>
 <h1> Menu </h1> 
 <h2> Vorspeisen </h2> 
 <h3> Exquisites auf dem Niveau von 'The Taste', kohlehydratarm, damit noch Platz für die Hauptspeise ist.</h3> 
@@ -48,13 +48,13 @@ tr:nth-child(even) {
 <li>Vorspeise 2: Wer? </li>
 <li>Vorspeise 3: Wer? </li>
 <li>... </li>
-<a><img src="bilder/bild2.jpg" height = "200"></a>
-<a><img src="bilder/bild14.jpg" height = "200"></a>
+<a><img src="bild2.jpg" height = "200"></a>
+<a><img src="bild14.jpg" height = "200"></a>
 </ul>
 
 <h2> Hauptspeise </h2> 
 <h3> Grüner Salat: Wer? </h3> 
-<a><img src="bilder/bild20.jpg" height = "200"></a>
+<a><img src="bild20.jpg" height = "200"></a>
 <h3> Raclette: </h3> 
 
 <h4> Alle vegetarischen Grundzutaten, Käse Kartoffeln, Brot für das Raclette von Familie Frank.</h4> 
