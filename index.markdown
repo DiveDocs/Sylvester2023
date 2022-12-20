@@ -62,7 +62,6 @@ tr:nth-child(even) {
 <a><img src="./Bild7.jpg" height = "200"></a>
 <a><img src="./Bild8.jpg" height = "200"></a>
 <a><img src="./Bild9.jpg" height = "200"></a>
-<a><img src="./bild10.jpg" height = "200"></a>
 
 <h4> Alle vegetarischen Grundzutaten, Käse (Raclette, Butterkäse), Kartoffeln, Brot für das Raclette von Familie Frank.</h4> 
 <h4> Fleisch/Fisch/Seafood von den Gästen. </h4> 
