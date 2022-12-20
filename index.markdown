@@ -29,7 +29,7 @@ tr:nth-child(even) {
 
 (Diese Seite wird über die kommenden 2 Wochen up-to-date gehalten, damit ihr nicht nach allen Informationen mühsam im WA-Chat suchen müsst.)
 
-<h1> Start um 20:20? Nein, um 19:19 </h1> 
+<h1> Start um 20:22? Nein, um 19:19 </h1> 
 <h1> Gäste: Zur Zeit ca. 20 </h1> 
 
 <a><img src="./Bild1.jpg" height = "200"></a>
