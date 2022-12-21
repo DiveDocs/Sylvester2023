@@ -65,14 +65,18 @@ tr:nth-child(even) {
 
 <h4> Alle vegetarischen Grundzutaten, Käse (Raclette, Butterkäse), Kartoffeln, Brot für das Raclette von Familie Frank.</h4> 
 <h4> Fleisch/Fisch/Seafood von den Gästen. </h4> 
+<ul>
+<li>1kg RoastBeef von Ilona und Elof</li>
+<li>verschiedenes Fleisch von Astrid und Olli</li>
+</ul>
 <h4> Alternativ: Wir zaubern uns durch die wundersame Welt des Raclette's. In Gruppen bringt ihr Eure Ideen und die Zutaten mit. <a href="https://heissehimbeeren.com/die-9-leckersten-raclette-rezepte/">Ideen hier, wer sucht findet noch viel mehr</a>. Wer isst dabei? Feedback in den Gruppenchat!?
 </h4> 
 
 
 <h2> Nachspeisen </h2> 
 <ul> 
-<li>Nachspeise 1: Wer? </li>
-<li>Nachspeise 2: Wer? </li>
+<li>Nachspeise 1: Evi </li>
+<li>Nachspeise 2: Dagmar </li>
 <li>Nachspeise 3: Wer? </li>
 <li>... </li>
 </ul>
