@@ -47,7 +47,7 @@ tr:nth-child(even) {
 <li>Vorspeise 1: Evi (eventueall)? </li>
 <li>Vorspeise 2: Maryann und Toni </li>
 <li>Vorspeise 3: MaryAnn und Toni </li>
-<li>Vorspeise 4: Ein Hauch von Tom Kha Ga Suppe von Ilona und Elof (wer bringt Scampis mit?<)/li>
+<li>Vorspeise 4: Ein Hauch von Tom Kha Ga Suppe von Ilona und Elof (wer bringt Scampis mit?</li>
 <li>... </li>
 <a><img src="./Bild2.jpg" height = "200"></a>
 <a><img src="./Bild14.jpg" height = "200"></a>
