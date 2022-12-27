@@ -45,9 +45,10 @@ tr:nth-child(even) {
 <h3> Exquisites auf dem Niveau von 'The Taste', kohlehydratarm, damit noch Platz für die Hauptspeise ist.</h3> 
 <ul> 
 <li>Vorspeise 1: Evi (eventueall)? </li>
-<li>Vorspeise 2: Maryann und Toni </li>
-<li>Vorspeise 3: MaryAnn und Toni </li>
-<li>Vorspeise 4: Ein Hauch von Tom Kha Ga Suppe von Ilona und Elof (wer bringt Scampis mit?</li>
+<li>Vorspeise 2: Radichio (Andi und Konni)</li>
+<li>Vorspeise 3: Maryann und Toni </li>
+<li>Vorspeise 4: Pomelosalat (Sophie und Jörg) </li>
+<li>Vorspeise 5: Ein Hauch von Tom Kha Ga Suppe von Ilona und Elof (wer bringt Scampis mit?</li>
 <li>... </li>
 <a><img src="./Bild2.jpg" height = "200"></a>
 <a><img src="./Bild14.jpg" height = "200"></a>
@@ -79,7 +80,7 @@ tr:nth-child(even) {
 <ul> 
 <li>Nachspeise 1: Evi </li>
 <li>Nachspeise 2: Dagmar </li>
-<li>Nachspeise 3: Wer? </li>
+<li>Nachspeise 3: Sophie </li>
 <li>... </li>
 </ul>
 
