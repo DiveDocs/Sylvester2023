@@ -47,8 +47,9 @@ tr:nth-child(even) {
 <li>Vorspeise 1: Evi (eventueall)? </li>
 <li>Vorspeise 2: Radichio (Andi und Konni)</li>
 <li>Vorspeise 3: Maryann und Toni </li>
-<li>Vorspeise 4: Pomelosalat (Sophie und Jörg) </li>
-<li>Vorspeise 5: Ein Hauch von Tom Kha Ga Suppe von Ilona und Elof (wer bringt Scampis mit?</li>
+<li>Vorspeise 4: Maryann und Toni </li>
+<li>Vorspeise 5: Pomelosalat (Sophie und Jörg) </li>
+<li>Vorspeise 6: Ein Hauch von Tom Kha Ga Suppe von Ilona und Elof (wer bringt Scampis mit?</li>
 <li>... </li>
 <a><img src="./Bild2.jpg" height = "200"></a>
 <a><img src="./Bild14.jpg" height = "200"></a>
