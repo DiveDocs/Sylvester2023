@@ -44,16 +44,17 @@ tr:nth-child(even) {
 <h2> Vorspeisen </h2> 
 <h3> Exquisites auf dem Niveau von 'The Taste', kohlehydratarm, damit noch Platz für die Hauptspeise ist.</h3> 
 <ul> 
-<li>Vorspeise 1: Wer? </li>
-<li>Vorspeise 2: Wer? </li>
-<li>Vorspeise 3: Wer? </li>
+<li>Vorspeise 1: Evi (eventueall)? </li>
+<li>Vorspeise 2: Maryann und Toni </li>
+<li>Vorspeise 3: MaryAnn und Toni </li>
+<li>Vorspeise 4: Ein Hauch von Tom Kha Ga Suppe von Ilona und Elof (wer bringt Scampis mit?<)/li>
 <li>... </li>
 <a><img src="./Bild2.jpg" height = "200"></a>
 <a><img src="./Bild14.jpg" height = "200"></a>
 </ul>
 
 <h2> Hauptspeise </h2> 
-<h3> Grüner Salat: Wer? </h3> 
+<h3> Grüner Salat: MaryAnn? </h3> 
 <a><img src="./Bild20.jpg" height = "200"></a>
 <h3> Raclette: </h3> 
 <a><img src="./Bild4.jpg" height = "200"></a>
@@ -68,6 +69,7 @@ tr:nth-child(even) {
 <ul>
 <li>1kg RoastBeef von Ilona und Elof</li>
 <li>verschiedenes Fleisch von Astrid und Olli</li>
+<li>Ochsenfetzen von Marita und Thomas</li>
 </ul>
 <h4> Alternativ: Wir zaubern uns durch die wundersame Welt des Raclette's. In Gruppen bringt ihr Eure Ideen und die Zutaten mit. <a href="https://heissehimbeeren.com/die-9-leckersten-raclette-rezepte/">Ideen hier, wer sucht findet noch viel mehr</a>. Wer isst dabei? Feedback in den Gruppenchat!?
 </h4> 
