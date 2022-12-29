@@ -41,6 +41,7 @@ tr:nth-child(even) {
 <li>Astrid und Olli</li>
 <li>Sophie und Jörg</li>
 <li>Ilona und Elof</li>
+<li>vorbehaltlich 2x Kray mit schwarzem Baby</li>
 </ul>
 <a><img src="./Bild1.jpg" height = "200"></a>
 <a><img src="./Bild3.jpg" height = "200"></a>
