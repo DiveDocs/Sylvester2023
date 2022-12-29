@@ -33,7 +33,7 @@ tr:nth-child(even) {
 <h1> Gäste: Zur Zeit ca. 20 </h1> 
 
 <ul> 
-<li>arita und Thomas</li>
+<li>Marita und Thomas</li>
 <li>Dagmar, Evi, Simone, Nicole</li>
 <li>Maryann und Thomas</li>
 <li>Andi und Konni</li>
