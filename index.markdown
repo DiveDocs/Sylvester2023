@@ -32,6 +32,16 @@ tr:nth-child(even) {
 <h1> Start um 20:22? Nein, um 19:19 </h1> 
 <h1> Gäste: Zur Zeit ca. 20 </h1> 
 
+<ul> 
+<li>arita und Thomas</li>
+<li>Dagmar, Evi, Simone, Nicole</li>
+<li>Maryann und Thomas</li>
+<li>Andi und Konni</li>
+<li>Beate und Stephane</li>
+<li>Astrid und Olli</li>
+<li>Sophie und Jörg</li>
+<li>Ilona und Elofli>
+</ul>
 <a><img src="./Bild1.jpg" height = "200"></a>
 <a><img src="./Bild3.jpg" height = "200"></a>
 <a><img src="./Bild19.jpg" height = "200"></a>
@@ -44,7 +54,6 @@ tr:nth-child(even) {
 <h2> Vorspeisen </h2> 
 <h3> Exquisites auf dem Niveau von 'The Taste', kohlehydratarm, damit noch Platz für die Hauptspeise ist.</h3> 
 <ul> 
-<li>Vorspeise 1: Evi (eventueall)? </li>
 <li>Vorspeise 2: Radichio (Andi und Konni)</li>
 <li>Vorspeise 3: Maryann und Toni </li>
 <li>Vorspeise 4: Maryann und Toni </li>
@@ -81,7 +90,6 @@ tr:nth-child(even) {
 <ul> 
 <li>Nachspeise 1: Evi </li>
 <li>Nachspeise 2: Dagmar </li>
-<li>Nachspeise 3: Sophie </li>
 <li>... </li>
 </ul>
 
