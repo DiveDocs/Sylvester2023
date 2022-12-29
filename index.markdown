@@ -40,7 +40,7 @@ tr:nth-child(even) {
 <li>Beate und Stephane</li>
 <li>Astrid und Olli</li>
 <li>Sophie und Jörg</li>
-<li>Ilona und Elofli>
+<li>Ilona und Elof</li>
 </ul>
 <a><img src="./Bild1.jpg" height = "200"></a>
 <a><img src="./Bild3.jpg" height = "200"></a>
