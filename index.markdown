@@ -34,7 +34,7 @@ tr:nth-child(even) {
 
 <ul> 
 <li>Marita und Thomas</li>
-<li>Dagmar, Evi, Simone, Nicole</li>
+<li>Dagmar</li>
 <li>Maryann und Toni</li>
 <li>Andi und Konni</li>
 <li>Beate und Stephane</li>
