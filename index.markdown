@@ -60,14 +60,14 @@ tr:nth-child(even) {
 <ul> 
 <li>Vorspeise 1: Linsen-/Bulgursalat (Nico)</li>
 <li>Vorspeise 2: Überraschung (Beate) </li>
-<li>Vorspeise 3: ??? </li>
-<li>Vorspeise 4: ??? </li>
+<li>Vorspeise 3: Überraschung (Sophie) </li>
+<li>Vorspeise 4: Canapés (Karin und Martin) </li>
 <li>Vorspeise 5: ??? </li>
 <li>... </li>
 </ul>
 
 <h2> Hauptspeise </h2> 
-<h3> Poke Bowl: (Familie Frank (mit tatkräftiger Schnippel-Unterstützung der Rheinländer</h3> 
+<h1> Poke Bowl: Familie Frank (mit tatkräftiger Schnippel-Unterstützung der Rheinländer)</h1> 
 <a><img src="./Bild4.jpg" height = "200"></a>
 <a><img src="./Bild5.jpg" height = "200"></a>
 <a><img src="./Bild6.jpg" height = "200"></a>
@@ -78,8 +78,8 @@ tr:nth-child(even) {
 <h2> Nachspeisen </h2> 
 <ul> 
 <li>Nachspeise 1: Marita und Thomas </li>
-<li>Nachspeise 2: Mousse au Chocolat - Karin und Martin </li>
-<li>Nachspeise 3: Andi und Konni </li>
+<li>Nachspeise 2: Andi und Konni </li>
+<li>Nachspeise 3: ??? </li>
 <li>... </li>
 </ul>
 
