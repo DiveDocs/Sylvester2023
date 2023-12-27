@@ -59,7 +59,7 @@ tr:nth-child(even) {
 <h3> Entgegen meine vorhergehenden Kommunikation wird es kein Vorspeisen Buffet in dem Sinne geben, sondern Fingerfood auf dem Niveau von 'The Taste', vom Tablett über die Finger in den Mund!</h3> 
 <ul> 
 <li>Vorspeise 1: Linsen-/Bulgursalat (Nico)</li>
-<li>Vorspeise 2: ??? </li>
+<li>Vorspeise 2: Überraschung (Beate) </li>
 <li>Vorspeise 3: ??? </li>
 <li>Vorspeise 4: ??? </li>
 <li>Vorspeise 5: ??? </li>
@@ -78,8 +78,8 @@ tr:nth-child(even) {
 <h2> Nachspeisen </h2> 
 <ul> 
 <li>Nachspeise 1: Marita und Thomas </li>
-<li>Nachspeise 2: ??? </li>
-<li>Nachspeise 3: ??? </li>
+<li>Nachspeise 2: Mousse au Chocolat - Karin und Martin </li>
+<li>Nachspeise 3: Andi und Konni </li>
 <li>... </li>
 </ul>
 
