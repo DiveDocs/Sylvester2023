@@ -30,7 +30,7 @@ tr:nth-child(even) {
 (Diese Seite wird über die kommenden 4 Tagen up-to-date gehalten, damit ihr nicht nach allen Informationen mühsam im WA-Chat suchen müsst.)
 
 <h1> Start um 20:23? Nein, um 19:30!! </h1> 
-<h1> Gäste: Zur Zeit ca. 20-23 </h1> 
+<h1> Gäste: Zur Zeit ca. 23 </h1> 
 
 <ul> 
 <li>Dagmar</li>
@@ -38,7 +38,7 @@ tr:nth-child(even) {
 <li>Susi</li>
 <li>Nico</li>
 <li>Marita und Thomas</li>
-<li>Julie oder David (oder beide mit Elouise)</li>
+<li>Julie, David + Sister Act</li>
 <li>Karin und Martin</li>
 <li>Peter und Petra</li>
 <li>Elli und Andreas</li>
@@ -59,9 +59,12 @@ tr:nth-child(even) {
 <ul> 
 <li>Vorspeise 1: Linsen-/Bulgursalat (Nico)</li>
 <li>Vorspeise 2: Überraschung (Beate) </li>
-<li>Vorspeise 3: Überraschung (Sophie) </li>
+<li>Vorspeise 3: Lachsöllchen (Sophie) </li>
 <li>Vorspeise 4: Canapés (Karin und Martin) </li>
-<li>Vorspeise 5: ??? </li>
+<li>Vorspeise 5: Überraschung (Sophie) </li>
+<li>Vorspeise 6: Börek-Stangen Schafskäse (Petra) </li>
+<li>Vorspeise 7: Fingerfood Überraschung (Elli und Andreas) </li>
+
 <li>... </li>
 </ul>
 
