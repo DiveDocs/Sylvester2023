@@ -57,6 +57,7 @@ tr:nth-child(even) {
 <h2> Fingerfood-Vorspeisen </h2> 
 <h3> Entgegen meine vorhergehenden Kommunikation wird es kein Vorspeisen Buffet in dem Sinne geben, sondern Fingerfood auf dem Niveau von 'The Taste', vom Tablett über die Finger in den Mund!</h3> 
 <ul> 
+<li>Vorspeise 0: Dips und Rohkost (Andi und Konni)</li>
 <li>Vorspeise 1: Linsen-/Bulgursalat (Nico)</li>
 <li>Vorspeise 2: Überraschung (Beate) </li>
 <li>Vorspeise 3: Lachsöllchen (Sophie) </li>
@@ -69,7 +70,7 @@ tr:nth-child(even) {
 </ul>
 
 <h2> Hauptspeise </h2> 
-<h1> Poke Bowl: Familie Frank (mit tatkräftiger Schnippel-Unterstützung der Rheinländer)</h1> 
+<h2> Poke Bowl: Familie Frank (mit tatkräftiger Schnippel-Unterstützung der Rheinländer)</h2> 
 <a><img src="./Bild4.jpg" height = "200"></a>
 <a><img src="./Bild5.jpg" height = "200"></a>
 <a><img src="./Bild6.jpg" height = "200"></a>
