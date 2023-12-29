@@ -30,18 +30,16 @@ tr:nth-child(even) {
 (Diese Seite wird über die kommenden 4 Tagen up-to-date gehalten, damit ihr nicht nach allen Informationen mühsam im WA-Chat suchen müsst.)
 
 <h1> Start um 20:23? Nein, um 19:30!! </h1> 
-<h1> Gäste: Zur Zeit ca. 23 </h1> 
+<h1> Gäste: Zur Zeit ca. 20 </h1> 
 
 <ul> 
 <li>Dagmar</li>
-<li>Olli</li>
 <li>Susi</li>
 <li>Nico</li>
 <li>Marita und Thomas</li>
 <li>Julie, David + Sister Act</li>
 <li>Karin und Martin</li>
 <li>Peter und Petra</li>
-<li>Elli und Andreas</li>
 <li>Andi und Konni</li>
 <li>Beate und Stephane</li>
 <li>Sophie und Jörg</li>
