@@ -57,15 +57,15 @@ tr:nth-child(even) {
 <h2> Fingerfood-Vorspeisen </h2> 
 <h3> Entgegen meine vorhergehenden Kommunikation wird es kein Vorspeisen Buffet in dem Sinne geben, sondern Fingerfood auf dem Niveau von 'The Taste', vom Tablett über die Finger in den Mund!</h3> 
 <ul> 
-<li>Vorspeise 0: Dips und Rohkost (Andi und Konni)</li>
-<li>Vorspeise 1: Linsen-/Bulgursalat (Nico)</li>
-<li>Vorspeise 2: Überraschung (Beate) </li>
-<li>Vorspeise 3: Lachsöllchen (Sophie) </li>
-<li>Vorspeise 4: Canapés (Karin und Martin) </li>
-<li>Vorspeise 5: Überraschung (Sophie) </li>
-<li>Vorspeise 6: Börek-Stangen Schafskäse (Petra) </li>
-<li>Vorspeise 7: Fingerfood Überraschung (Elli und Andreas) </li>
-<li>Vorspeise 8: Broccoliröschen mit Schafskäse (Susi) </li>
+<li>Vorspeise 1: Dips und Rohkost (Andi und Konni)</li>
+<li>Vorspeise 2: Linsen-/Bulgursalat (Nico)</li>
+<li>Vorspeise 3: Überraschung (Beate) </li>
+<li>Vorspeise 4: Lachsöllchen (Sophie) </li>
+<li>Vorspeise 5: Canapés (Karin und Martin) </li>
+<li>Vorspeise 6: Überraschung (Sophie) </li>
+<li>Vorspeise 7: Börek-Stangen Schafskäse (Petra) </li>
+<li>Vorspeise 8: Fingerfood Überraschung (Elli und Andreas) </li>
+<li>Vorspeise 9: Broccoliröschen mit Schafskäse (Susi) </li>
 
 <li>... </li>
 </ul>
