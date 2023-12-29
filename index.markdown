@@ -80,7 +80,7 @@ tr:nth-child(even) {
 
 <h2> Nachspeisen </h2> 
 <ul> 
-<li>Nachspeise 1: ??? </li>
+<li>Nachspeise 1: Dagmar </li>
 <li>Nachspeise 2: Andi und Konni </li>
 <li>Nachspeise 3: Eisfach plündern (von und mit Ilona und Elof) </li>
 <li>... </li>
