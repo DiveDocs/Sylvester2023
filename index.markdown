@@ -65,6 +65,7 @@ tr:nth-child(even) {
 <li>Vorspeise 5: Überraschung (Sophie) </li>
 <li>Vorspeise 6: Börek-Stangen Schafskäse (Petra) </li>
 <li>Vorspeise 7: Fingerfood Überraschung (Elli und Andreas) </li>
+<li>Vorspeise 8: Broccoliröschen mit Schafskäse (Susi) </li>
 
 <li>... </li>
 </ul>
