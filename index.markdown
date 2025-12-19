@@ -67,7 +67,7 @@ tr:nth-child(even) {
 <h2> Hauptspeise: Familie Frank und die Rheinländer </h2> 
 <h2> Ottolenghi Simple</h2> 
 <ul> 
-<li>Auberginen mit Ingwer und Frühlingszwiebelfn, wahlweise mit Fleisch und vegetarisch</li>
+<li>Auberginen mit Ingwer und Frühlingszwiebeln, wahlweise mit Fleisch und vegetarisch</li>
 <li>Marrokanisches Hähnchen an Dattelreis</li>
 <li>Geröstete Auberginen mit Curry-Joghurt</li>
 <li>Gefüllte Zucchini mit Pinienkernsalsa</li>
