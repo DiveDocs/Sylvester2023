@@ -27,31 +27,30 @@ tr:nth-child(even) {
 </head>
 
 
-(Diese Seite wird über die kommenden 4 Tagen up-to-date gehalten, damit ihr nicht nach allen Informationen mühsam im WA-Chat suchen müsst.)
+(Diese Seite wird über die kommenden zwei Wochen up-to-date gehalten, damit ihr nicht nach allen Informationen mühsam im WA-Chat suchen müsst.)
 
-<h1> Start um 20:23? Nein, um 19:00!! </h1> 
+<h1> Start um 20:25? Nein, um 19:00!! </h1> 
 <h1> Gäste: Zur Zeit ca. 20 </h1> 
 
 <ul> 
 <li>Nicole, Bianca, Olli </li>
 <li>Peter und Petra</li>
+<li>Elli und Andreas</li>
 <li>Andi und Konni</li>
 <li>Beate und Stephane</li>
 <li>Sophie und Jörg</li>
 <li>Stephanie und Jan</li>
 <li>Janette und Matthias (vorbehaltich)</li>
-<li>Elli und Andreas(vorbehaltich)</li>
 <li>MaryAnn und Toni (vorbehaltich)</li>
 <li>Ilona und Elof</li>
 </ul>
-<a><img src="./Bild3.jpg" height = "200"></a>
-<a><img src="./Bild19.jpg" height = "200"></a>
-<a><img src="./Bild21.jpg" height = "200"></a>
-<a><img src="./Bild12.jpg" height = "200"></a>
-<a><img src="./bild24.jpg" height = "200"></a>
-<a><img src="./Bild16.jpg" height = "200"></a>
+<a><img src="./Bild19.jpg" height = "400"></a>
+<a><img src="./Bild21.jpg" height = "400"></a>
+<a><img src="./Bild12.jpg" height = "400"></a>
+<a><img src="./bild24.jpg" height = "400"></a>
+<a><img src="./Bild16.jpg" height = "400"></a>
 <h1> Menu </h1> 
-<h2> Fingerfood-Vorspeisenu aus Tausend-und-Einer Nacht</h2> 
+<h2> Fingerfood-Vorspeisen aus Tausend-und-Einer Nacht</h2> 
 <h3> Lasst uns Euer Fingerfood und Eure Vorspeisen wissen, dann trage ich das hier ein und es gibt dann nicht zu viele Überlappungen</h3> 
 <ul> 
 <li>Fingerfood 1: ???</li>
