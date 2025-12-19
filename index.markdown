@@ -100,5 +100,5 @@ Ansonsten mitzubringen sind: Gute Laune, fesche Kostüme, Tanzlaune!!!!</h2>
 <a><img src="./Bild30.jpeg" height = "400"></a>
 <a><img src="./Bild31.jpeg" height = "400"></a>
 <a><img src="./Bild32.jpeg" height = "400"></a>
-<a><img src="./Bild33.jpeg" height = "200"></a>
-<a><img src="./Bild34.jpeg" height = "200"></a>
+<a><img src="./Bild33.jpeg" height = "400"></a>
+<a><img src="./Bild34.jpeg" height = "400"></a>
