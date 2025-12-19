@@ -69,35 +69,36 @@ tr:nth-child(even) {
 <h2> Ottolenghi Simple: Familie Frank und die Rheinländer)</h2> 
 <ul> 
 <li>Auberginen mit Ingwer und Frühlingszwiebelfn, wahlweise mit Fleisch und vegetarisch</li>
+<li>Marrokanisches Hähnchen an Dattelreis</li>
 <li>Geröstete Auberginen mit Curry-Joghurt</li>
 <li>Gefüllte Zucchini mit Pinienkernsalsa</li>
 </ul>
 
 
-<a><img src="./Bild4.jpg" height = "200"></a>
-<a><img src="./Bild5.jpg" height = "200"></a>
-<a><img src="./Bild6.jpg" height = "200"></a>
-<a><img src="./Bild7.jpg" height = "200"></a>
-<a><img src="./Bild8.jpg" height = "200"></a>
-<a><img src="./Bild9.jpg" height = "200"></a>
+<a><img src="./Bild4.jpg" height = "400"></a>
+<a><img src="./Bild5.jpg" height = "400"></a>
+<a><img src="./Bild6.jpg" height = "400"></a>
+<a><img src="./Bild7.jpg" height = "400"></a>
+<a><img src="./Bild8.jpg" height = "400"></a>
+<a><img src="./Bild9.jpg" height = "400"></a>
 
 <h2> Nachspeisen </h2> 
 <ul> 
-<li>Nachspeise 1: Dagmar </li>
-<li>Nachspeise 2: Andi und Konni </li>
-<li>Nachspeise 3: Eisfach plündern (von und mit Ilona und Elof) </li>
+<li>Nachspeise 1: ??? </li>
+<li>Nachspeise 2: ??? </li>
+<li>Nachspeise 3: ???</li>
 <li>... </li>
 </ul>
 
 <h2> Musik und Tanzen </h2> 
-<h3> Auf Anregung von Sophie und Beate tanzen wir in Etappen, mit ausreichend Tanzpausen. Bitte Eure Playlisten und Musikwünsche an Sophie schicken oder stellt Euch direkt  und live an die Dukebox </h3> 
+<h3> Bitte stellt Euch live an die Dukebox </h3> 
 
 
 <h2> 
 Ansonsten mitzubringen sind: Gute Laune, fesche Kostüme, Tanzlaune!!!!</h2> 
 <br>
-<a><img src="./Bild30.jpeg" height = "200"></a>
-<a><img src="./Bild31.jpeg" height = "200"></a>
-<a><img src="./Bild32.jpeg" height = "200"></a>
+<a><img src="./Bild30.jpeg" height = "400"></a>
+<a><img src="./Bild31.jpeg" height = "400"></a>
+<a><img src="./Bild32.jpeg" height = "400"></a>
 <a><img src="./Bild33.jpeg" height = "200"></a>
 <a><img src="./Bild34.jpeg" height = "200"></a>
