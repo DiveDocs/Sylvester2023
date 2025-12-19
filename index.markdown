@@ -45,7 +45,6 @@ tr:nth-child(even) {
 <li>Ilona und Elof</li>
 </ul>
 <a><img src="./Bild19.jpg" height = "400"></a>
-<a><img src="./Bild21.jpg" height = "400"></a>
 <a><img src="./Bild12.jpg" height = "400"></a>
 <a><img src="./bild24.jpg" height = "400"></a>
 <a><img src="./Bild16.jpg" height = "400"></a>
