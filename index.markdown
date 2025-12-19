@@ -90,7 +90,7 @@ tr:nth-child(even) {
 </ul>
 
 <h2> Musik und Tanzen </h2> 
-<h3> Bitte stellt Euch live an die Dukebox </h3> 
+<h3> Nach alter Tradition wird hier auch getanzt. Bringt bitte Eure tanzbaren Lieblingslieder mit, und stellt Euch mit an die Dukebox </h3> 
 
 
 <h2> 
