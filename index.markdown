@@ -64,8 +64,8 @@ tr:nth-child(even) {
 <li>... </li>
 </ul>
 
-<h2> Hauptspeise </h2> 
-<h2> Ottolenghi Simple: Familie Frank und die Rheinländer)</h2> 
+<h2> Hauptspeise: Familie Frank und die Rheinländer </h2> 
+<h2> Ottolenghi Simple</h2> 
 <ul> 
 <li>Auberginen mit Ingwer und Frühlingszwiebelfn, wahlweise mit Fleisch und vegetarisch</li>
 <li>Marrokanisches Hähnchen an Dattelreis</li>
