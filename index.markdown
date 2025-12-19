@@ -33,16 +33,15 @@ tr:nth-child(even) {
 <h1> Gäste: Zur Zeit ca. 20 </h1> 
 
 <ul> 
-<li>Dagmar</li>
-<li>Susi</li>
-<li>Nico</li>
-<li>Marita und Thomas</li>
-<li>Julie, David + Sister Act</li>
-<li>Karin und Martin</li>
+<li>Nicole, Bianca, Olli </li>
 <li>Peter und Petra</li>
 <li>Andi und Konni</li>
 <li>Beate und Stephane</li>
 <li>Sophie und Jörg</li>
+<li>Stephanie und Jan</li>
+<li>Janette und Matthias (vorbehaltich)</li>
+<li>Elli und Andreas(vorbehaltich)</li>
+<li>MaryAnn und Toni (vorbehaltich)</li>
 <li>Ilona und Elof</li>
 </ul>
 <a><img src="./Bild3.jpg" height = "200"></a>
@@ -52,23 +51,30 @@ tr:nth-child(even) {
 <a><img src="./bild24.jpg" height = "200"></a>
 <a><img src="./Bild16.jpg" height = "200"></a>
 <h1> Menu </h1> 
-<h2> Fingerfood-Vorspeisen </h2> 
-<h3> Entgegen meine vorhergehenden Kommunikation wird es kein Vorspeisen Buffet in dem Sinne geben, sondern Fingerfood auf dem Niveau von 'The Taste', vom Tablett über die Finger in den Mund!</h3> 
+<h2> Fingerfood-Vorspeisenu aus Tausend-und-Einer Nacht</h2> 
+<h3> Lasst uns Euer Fingerfood und Eure Vorspeisen wissen, dann trage ich das hier ein und es gibt dann nicht zu viele Überlappungen</h3> 
 <ul> 
-<li>Vorspeise 1: Dips und Rohkost (Andi und Konni)</li>
-<li>Vorspeise 2: Linsen-/Bulgursalat (Nico)</li>
-<li>Vorspeise 3: Überraschung (Beate) </li>
-<li>Vorspeise 4: Lachsöllchen (Sophie) </li>
-<li>Vorspeise 5: Canapés (Karin und Martin) </li>
-<li>Vorspeise 6: Überraschung (Sophie) </li>
-<li>Vorspeise 7: Börek-Stangen Schafskäse (Petra) </li>
-<li>Vorspeise 9: Broccoliröschen mit Schafskäse (Susi) </li>
+<li>Fingerfood 1: ???</li>
+<li>Fingerfood 2: ???</li>
+<li>Fingerfood 3: ???</li>
+<li>Fingerfood 4: ???</li>
+<li>Vorspeise 1: ???</li>
+<li>Vorspeise 2: ??? </li>
+<li>Vorspeise 3: ??? </li>
+<li>Vorspeise 4: ??? </li>
 
 <li>... </li>
 </ul>
 
 <h2> Hauptspeise </h2> 
-<h2> Poke Bowl: Familie Frank (mit tatkräftiger Schnippel-Unterstützung der Rheinländer)</h2> 
+<h2> Ottolenghi Simple: Familie Frank und die Rheinländer)</h2> 
+<ul> 
+<li>Auberginen mit Ingwer und Frühlingszwiebelfn, wahlweise mit Fleisch und vegetarisch</li>
+<li>Geröstete Auberginen mit Curry-Joghurt</li>
+<li>Gefüllte Zucchini mit Pinienkernsalsa</li>
+</ul>
+
+
 <a><img src="./Bild4.jpg" height = "200"></a>
 <a><img src="./Bild5.jpg" height = "200"></a>
 <a><img src="./Bild6.jpg" height = "200"></a>
