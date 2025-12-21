@@ -62,7 +62,8 @@ tr:nth-child(even) {
 <a><img src="./bild24.jpg" height = "300"></a>
 <a><img src="./Bild16.jpg" height = "300"></a>
 <h1> Menu aus Tausend-und-Einer Nacht oder nach Ottolenghi Simple</h1> 
-<h3> Lasst uns Euer Fingerfood und Eure Vorspeisen wissen, dann trage ich das hier ein und es gibt dann nicht zu viele Überlappungen</h3> 
+<h2> Vorspeise/Fingerfood</h2> 
+Lasst uns Euer Fingerfood und Eure Vorspeisen wissen, dann trage ich das hier ein und es gibt dann nicht zu viele Überlappungen
 <ul> 
 <li>Fingerfood 1: ???</li>
 <li>Fingerfood 2: ???</li>
@@ -71,17 +72,14 @@ tr:nth-child(even) {
 <li>Vorspeise 2: ??? </li>
 <li>... ??? </li>
 </ul>
-
 <h2> Hauptspeise: Familie Frank und die Rheinländer </h2> 
-<h2> Ottolenghi Simple</h2> 
 <ul> 
 <li>Auberginen mit Ingwer und Frühlingszwiebeln, wahlweise mit Fleisch und vegetarisch</li>
 <li>Marrokanisches Hähnchen an Dattelreis</li>
 <li>Geröstete Auberginen mit Curry-Joghurt</li>
 <li>Gefüllte Zucchini mit Pinienkernsalsa</li>
 </ul>
-
-<h2> Nachspeisen </h2> 
+</li><h2> Nachspeisen </h2> 
 <ul> 
 <li>Nachspeise 1: ??? </li>
 <li>Nachspeise 2: ??? </li>
