@@ -29,7 +29,19 @@ tr:nth-child(even) {
 
 (Diese Seite wird über die kommenden zwei Wochen up-to-date gehalten, damit ihr nicht nach allen Informationen mühsam im WA-Chat suchen müsst.)
 
-<h1> Start um 20:25? Nein, um 19:00!! </h1> 
+<center>
+  <h1> Start um 20:25? Nein, um 19:00!! </h1> 
+<h1> Bitte mitbringen:</h1>
+ <h2> Gute Laune</h2> 
+<a><img src="./Bild30.jpeg" height = "400"></a>
+<h2> Fesche Kostüme</h2> 
+<a><img src="./Bild31.jpeg" height = "400"></a>
+<a><img src="./Bild32.jpeg" height = "400"></a>
+<a><img src="./Bild34.jpeg" height = "400"></a>
+<h2> Tanzlaune (Euer Sitzfleisch lasst lieber gleich zu Hause </h2> 
+<a><img src="./Bild33.jpeg" height = "400"></a>
+</center>
+
 <h1> Gäste: Zur Zeit ca. 20 </h1> 
 
 <ul> 
@@ -44,6 +56,7 @@ tr:nth-child(even) {
 <li>MaryAnn und Toni (vorbehaltich)</li>
 <li>Ilona und Elof</li>
 </ul>
+
 <a><img src="./Bild19.jpg" height = "400"></a>
 <a><img src="./Bild12.jpg" height = "400"></a>
 <a><img src="./bild24.jpg" height = "400"></a>
@@ -96,8 +109,3 @@ tr:nth-child(even) {
 <h2> 
 Ansonsten mitzubringen sind: Gute Laune, fesche Kostüme, Tanzlaune!!!!</h2> 
 <br>
-<a><img src="./Bild30.jpeg" height = "400"></a>
-<a><img src="./Bild31.jpeg" height = "400"></a>
-<a><img src="./Bild32.jpeg" height = "400"></a>
-<a><img src="./Bild33.jpeg" height = "400"></a>
-<a><img src="./Bild34.jpeg" height = "400"></a>
