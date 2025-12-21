@@ -79,7 +79,7 @@ Lasst uns Euer Fingerfood und Eure Vorspeisen wissen, dann trage ich das hier ei
 <li>Geröstete Auberginen mit Curry-Joghurt</li>
 <li>Gefüllte Zucchini mit Pinienkernsalsa</li>
 </ul>
-</li><h2> Nachspeisen </h2> 
+<h2> Nachspeisen </h2> 
 <ul> 
 <li>Nachspeise 1: ??? </li>
 <li>Nachspeise 2: ??? </li>
