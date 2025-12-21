@@ -27,7 +27,6 @@ tr:nth-child(even) {
 </head>
 
 
-(Diese Seite wird über die kommenden zwei Wochen up-to-date gehalten, damit ihr nicht nach allen Informationen mühsam im WA-Chat suchen müsst.)
 
 <center>
   <h1> Start um 20:25? Nein, um 19:00!! </h1> 
@@ -40,7 +39,7 @@ tr:nth-child(even) {
 <a><img src="./Bild34.jpeg" height = "300"></a>
 <h2> Und Tanzlaune  </h2> 
 <a><img src="./Bild33.jpeg" height = "300"></a>
-  <figcaption> Euer Sitzfleisch lasst lieber gleich zu Hause)</figcaption>
+  <figcaption> Euer Sitzfleisch lasst lieber gleich zu Hause</figcaption>
 </center>
 
 <h1> Gäste: Zur Zeit ca. 20 </h1> 
