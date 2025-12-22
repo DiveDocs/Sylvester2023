@@ -52,8 +52,7 @@ tr:nth-child(even) {
 <li>Beate und Stephane</li>
 <li>Sophie und Jörg</li>
 <li>Stephanie und Jan</li>
-<li>Janette und Matthias (vorbehaltich)</li>
-<li>MaryAnn und Toni (vorbehaltich)</li>
+<li>Janette und Matthias </li>
 <li>Ilona und Elof</li>
 </ul>
 
@@ -61,14 +60,14 @@ tr:nth-child(even) {
 <a><img src="./Bild12.jpg" height = "300"></a>
 <a><img src="./bild24.jpg" height = "300"></a>
 <a><img src="./Bild16.jpg" height = "300"></a>
-<h1> Menu aus Tausend-und-Einer Nacht oder nach Ottolenghi Simple</h1> 
+<h1> Menu aus Tausend-und-Einer Nacht </h1> 
 <h2> Vorspeise/Fingerfood</h2> 
 Lasst uns Euer Fingerfood und Eure Vorspeisen wissen, dann trage ich das hier ein und es gibt dann nicht zu viele Überlappungen
 <ul> 
-<li>Fingerfood 1: ???</li>
-<li>Fingerfood 2: ???</li>
+<li> 1: Guacamole ???</li>
+<li> 2: Salsa ???</li>
 <li>... ???</li>
-<li>Vorspeise 1: ???</li>
+<li>Tom Kha Gai Suppe (Familie Kray)</li>
 <li>Vorspeise 2: ??? </li>
 <li>... ??? </li>
 </ul>
@@ -81,8 +80,8 @@ Lasst uns Euer Fingerfood und Eure Vorspeisen wissen, dann trage ich das hier ei
 </ul>
 <h2> Nachspeisen </h2> 
 <ul> 
-<li>Nachspeise 1: ??? </li>
-<li>Nachspeise 2: ??? </li>
+<li> 1: Baiser mit Waldbeeren (Familie Kray)</li>
+<li> 2: Tiramisu (Familie Schranner) </li>
 <li>... </li>
 </ul>
 
