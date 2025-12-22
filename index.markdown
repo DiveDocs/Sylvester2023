@@ -64,9 +64,9 @@ tr:nth-child(even) {
 <h2> Vorspeise/Fingerfood</h2> 
 Lasst uns Euer Fingerfood und Eure Vorspeisen wissen, dann trage ich das hier ein und es gibt dann nicht zu viele Überlappungen
 <ul> 
-<li> 1: Guacamole ???</li>
-<li> 2: Salsa ???</li>
-<li>... ???</li>
+<li> 1: Guacamole (Familie Schranner)</li>
+<li> 2: Salsa (Familie Pfannes)</li>
+<li>... </li>
 <li>Tom Kha Gai Suppe (Familie Kray)</li>
 <li>Vorspeise 2: ??? </li>
 <li>... ??? </li>
