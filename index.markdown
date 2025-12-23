@@ -64,8 +64,9 @@ tr:nth-child(even) {
 <h2> Vorspeise/Fingerfood</h2> 
 Lasst uns Euer Fingerfood und Eure Vorspeisen wissen, dann trage ich das hier ein und es gibt dann nicht zu viele Überlappungen
 <ul> 
-<li> 1: Guacamole (Familie Schranner)</li>
-<li> 2: Salsa (Familie Pfannes)</li>
+<li> 1: Zimtaprikosen mit Riccottafüllung (Familie Schranner)</li>
+<li> 2: 1001-Nacht Vorspeise (Familie Pfannes)</li>
+<li> 3: Kürbisspalten mit Zitronen-Kräuter Kruste (Familie Krumme)</li>
 <li>... </li>
 <li>Tom Kha Gai Suppe (Familie Kray)</li>
 <li>Vorspeise 2: ??? </li>
@@ -81,7 +82,8 @@ Lasst uns Euer Fingerfood und Eure Vorspeisen wissen, dann trage ich das hier ei
 <h2> Nachspeisen </h2> 
 <ul> 
 <li> 1: Baiser mit Waldbeeren (Familie Kray)</li>
-<li> 2: Tiramisu (Familie Schranner) </li>
+<li> 2: Cremedessert mit Kompott und Walnussstreuseln (Familie Schranner)</li>
+<li> 3: Sexerlei Datteln, Feigen, frisches Obst und orientalische Süßigkeiten (Familie Pfannes)</li>
 <li>... </li>
 </ul>
 
