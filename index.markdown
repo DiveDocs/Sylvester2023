@@ -67,7 +67,7 @@ Lasst uns Euer Fingerfood und Eure Vorspeisen wissen, dann trage ich das hier ei
 <li> 1: Zimtaprikosen mit Riccottafüllung (Familie Schranner)</li>
 <li> 2: 1001-Nacht Vorspeise (Familie Pfannes)</li>
 <li> 3: Kürbisspalten mit Zitronen-Kräuter Kruste (Familie Krumme)</li>
-<li> 4: Blumenkohl Tabouleh mit Granatapfel (Bianca)</li>
+<li> 4: Blumenkohl-Tabouleh mit Granatapfel (Bianca)</li>
 <li>... ??? </li>
 </ul>
 <h2> Hauptspeise: Familie Frank und die Rheinländer </h2> 
