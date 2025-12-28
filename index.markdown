@@ -69,8 +69,6 @@ Lasst uns Euer Fingerfood und Eure Vorspeisen wissen, dann trage ich das hier ei
 <li> 3: Kürbisspalten mit Zitronen-Kräuter Kruste (Familie Krumme)</li>
 <li> 4: Blumenkohl-Tabouleh mit Granatapfel (Bianca)</li>
 <li> 5: Mango-Lauchzwiebel Salat mit Koriander (Familie Leclair)</li>
-  
-<li>... ??? </li>
 </ul>
 <h2> Hauptspeise: Familie Frank und die Rheinländer </h2> 
 <ul> 
