@@ -67,6 +67,7 @@ Lasst uns Euer Fingerfood und Eure Vorspeisen wissen, dann trage ich das hier ei
 <li> 1: Zimtaprikosen mit Riccottafüllung (Familie Schranner)</li>
 <li> 2: 1001-Nacht Vorspeise (Familie Pfannes)</li>
 <li> 3: Kürbisspalten mit Zitronen-Kräuter Kruste (Familie Krumme)</li>
+<li> 4: Blumenkohl Tabouleh mit Granatapfel (Bianca)</li>
 <li>... </li>
 <li>Tom Kha Gai Suppe (Familie Kray)</li>
 <li>Vorspeise 2: ??? </li>
@@ -83,7 +84,8 @@ Lasst uns Euer Fingerfood und Eure Vorspeisen wissen, dann trage ich das hier ei
 <ul> 
 <li> 1: Baiser mit Waldbeeren (Familie Kray)</li>
 <li> 2: Cremedessert mit Kompott und Walnussstreuseln (Familie Schranner)</li>
-<li> 3: Sexerlei Datteln, Feigen, frisches Obst und orientalische Süßigkeiten (Familie Pfannes)</li>
+<li> 3: Orientalisches Tiramisu (Familie Straube)</li>
+<li> 4: Sexerlei Datteln, Feigen, frisches Obst und orientalische Süßigkeiten (Familie Pfannes)</li>
 <li>... </li>
 </ul>
 
