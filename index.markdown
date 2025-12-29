@@ -72,9 +72,8 @@ Lasst uns Euer Fingerfood und Eure Vorspeisen wissen, dann trage ich das hier ei
 </ul>
 <h2> Hauptspeise: Familie Frank und die Rheinländer </h2> 
 <ul> 
-<li>Auberginen mit Ingwer und Frühlingszwiebeln, wahlweise mit Fleisch und vegetarisch</li>
+<li>Auberginen mit Ingwer, Frühlingszwiebeln und würziger Tomatensauce</li>
 <li>Marrokanisches Hähnchen an Dattelreis</li>
-<li>Geröstete Auberginen mit Curry-Joghurt</li>
 <li>Gefüllte Zucchini mit Pinienkernsalsa</li>
 </ul>
 <h2> Nachspeisen </h2> 
